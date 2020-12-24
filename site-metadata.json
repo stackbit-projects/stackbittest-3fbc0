@@ -4,7 +4,7 @@
         "title": "Libris",
         "logo_img": "images/win-vind-icon.png",
         "logo_img_alt": "Libris logo",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
