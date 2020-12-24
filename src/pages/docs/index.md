@@ -2,15 +2,22 @@
 title: Mouse
 template: docs
 ---
+Contibute Procedure
+Clone the repository from pit-ray/win-vind. For example, you do a follow command.
+$git clone https://github.com/pit-ray/win-vind.git
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+Make a unique branch for pull requests.
+$git checkout -b UNIQUE_BRANCH_NAME
 
-***
+You can do something for this project.
+Build project for release in root directory.
+$./push_preproc.bat 0.0.0
 
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
+Please add, commit and push.
+$git add .
 
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
+$git commit -m "Please write a summary of your changes."
 
-[Morbi ac vulputate enim](https://stackbit.com)
+$git push origin UNIQUE_BRANCH_NAME
 
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
+Please send pull requests at Pull requests pit-ray/win-vind
